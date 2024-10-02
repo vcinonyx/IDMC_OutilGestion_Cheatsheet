@@ -8,3 +8,5 @@ Team leader: ...
 
 ## POP
 Team leader: Tadzhat Marharian
+
+* Junior: Xiaochun Liang
