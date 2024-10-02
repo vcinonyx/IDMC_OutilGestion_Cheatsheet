@@ -11,3 +11,4 @@ Team leader: Tadzhat Marharian
 
 * Junior: Xiaochun Liang
 * Junior: Pu Huang
+* * Junior: Jad Baalbaki
